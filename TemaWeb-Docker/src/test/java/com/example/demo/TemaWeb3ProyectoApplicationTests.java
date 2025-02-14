@@ -1,10 +1,10 @@
-package com.app.web;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrudDockerApplicationTests {
+class TemaWeb3ProyectoApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.app.web;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CrudDockerApplication {
+public class TemaWeb3ProyectoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CrudDockerApplication.class, args);
+		SpringApplication.run(TemaWeb3ProyectoApplication.class, args);
 	}
 
 }
